@@ -1,11 +1,11 @@
 //
 //  By Jim Dong
-//  Solution of Project Euler Problem 2
+//  Solution to Project Euler Problem 2
 //  It pushes the next calculated fibbonacci number into a vector and increments the current
-//  variable to that [just calculated] number and increments the prev variable the the former
+//  variable to that [just calculated] number and increments the prev variable to the former
 //  value of the current variable
 //  Even fibbonacci numbers are found by testing each number in the vector mod 2.
-//  Runtime to calculate fib = O(n)
+//  Runtime to calculate fibs = O(n)
 //  Runtime to calculate sum of even fibs = O (n)
 
 #include <iostream>
