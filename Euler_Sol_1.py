@@ -1,6 +1,6 @@
 ﻿# By: Jim Dong
 # Solution for Project Euler problem 1
-# Naive algorithm, runs on O(n) where n is the input number
+# Naive algorithm, runs in O(n) time where n is the input number
 
 start = 0
 sum = 0
